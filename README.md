@@ -1,2 +1,2 @@
-# ai-poet
+# poet-ai-agent
 An AI Poet Agent
